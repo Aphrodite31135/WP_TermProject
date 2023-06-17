@@ -1,0 +1,21 @@
+body {
+    background-color : #181818;
+    color : white;
+}
+p {
+    color: lightcoral;
+    font-size: smaller;
+}
+.요약정보 {
+    font-size: smaller;
+}
+#dopanicknamelist {
+    font-style: italic;
+}
+h4 {
+    color : greenyellow;
+    font : 'namumgothic';
+}
+a {
+    color : lightblue;
+}
